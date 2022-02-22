@@ -13,8 +13,8 @@ Visit this link to see the project live, [click here](https://digital-business-c
 ### Setup
 First, clone this repository to a local directory. Enter in the command line:
 ```
-$ git clone https://github.com/mhbae-dev/markdown-note
-$ cd markdown-note
+$ git clone https://github.com/mhbae-dev/digital-business-card
+$ cd digital-business-card
 ```
 ### Run on localhost
 Install dependencies:
