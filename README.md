@@ -2,18 +2,38 @@
 
 This is a digital business created using React to increase familiarity with React components and props(light/dark modes).This project makes up part of my active learning journey towards React mastery.
 
-## To use the application
+Visit this link to see the project live, [click here](https://digital-business-card-hazel.vercel.app/)!
 
+## Demo
+
+![digitalCard](https://user-images.githubusercontent.com/41869496/155120065-81e97fff-6442-4664-9b46-00eb452d2d3a.gif)
+
+## Instructions for use
+
+### Setup
+First, clone this repository to a local directory. Enter in the command line:
 ```
-clone the repository
-cd into the repository directory
+$ git clone https://github.com/mhbae-dev/markdown-note
+$ cd markdown-note
+```
+### Run on localhost
+Install dependencies:
 
-run `npm start` to run the app in development mode
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+```sh
+npm install
 ```
 
-## Screenshots
+To run in hot module reloading mode:
 
-![App Screenshot](https://user-images.githubusercontent.com/41869496/152643341-38afdc86-ce2c-4831-9336-541dc3041499.png) ![App Screenshot](https://user-images.githubusercontent.com/41869496/152643555-bab25a4b-63ed-4aee-84da-7d5f3c73a477.png)
+```sh
+npm start
+```
+
+To create a production build:
+
+```sh
+npm run build
+```
+
+## Acknowledgements
+Bob Zirroll
